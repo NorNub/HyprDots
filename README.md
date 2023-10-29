@@ -9,7 +9,7 @@ DONT Blindly Copy
 
 # Icons
 
-- [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
+- [NovaOS-Icons](https://github.com/NicklasVraa/NovaOS-nord-Icons)
   
 - [Bibata-Modern-Ice 6](https://github.com/ful1e5/Bibata_Cursor)
 
