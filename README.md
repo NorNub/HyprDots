@@ -2,7 +2,7 @@
 
 DONT Blindly Copy 
 
-![alt text](https://github.com/NorNub/hyprdots/blob/main/other/sh/desktop.png)
+![alt text](https://github.com/NorNub/hyprdots/blob/main/other/sh/desktop.jpg)
 
 # Themes
 
@@ -29,7 +29,7 @@ DONT Blindly Copy
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
-- **WebBrowser** - Firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
+- **WebBrowser** - Firefox with [Theme](https://addons.mozilla.org/en-US/firefox/addon/ayu-dark-flat-theme/) & [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
 - **Exstensions:**
 - Ublock
 - Unhook
