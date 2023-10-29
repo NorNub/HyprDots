@@ -10,6 +10,6 @@ DONT Blindly Copy
 [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
-# SHELL: Fish 
-# TERM: Kitty 
+SHELL: Fish 
+TERM: Kitty 
 
