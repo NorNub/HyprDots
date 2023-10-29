@@ -10,12 +10,13 @@ DONT Blindly Copy
 [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
-- **Bar** - Waybar
-- **Editor** - Neovim // Code-OSS
 - **Shell** - Fish
 - **Term** - Kitty
+- **Bar** - Waybar
+- **FileManager** - Thunar // LF
+- **Editor** - Neovim // Code-OSS
 - **Notification** - Mako
-- **Web Browser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
+- **WebBrowser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
 - **Exstensions:**
 - Ublock
 - Unhook
