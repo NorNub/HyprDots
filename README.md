@@ -2,6 +2,7 @@
 
 DONT Blindly Copy 
 
+![alt text](https://github.com/NorNub/hyprdots/blob/main/other/sh/desktop.png)
 
 # Themes
 
