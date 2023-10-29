@@ -22,6 +22,8 @@ DONT Blindly Copy
 - **Wallpaper** - Swww
 - **ScreenShot** - GrimSlurp
 - **Notification** - Mako
+- **Bluetooth** - Blueman
+- **Network** - NetworkManager 
 - **Polkit** - KDE-Polkit
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
