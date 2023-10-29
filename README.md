@@ -10,6 +10,7 @@ DONT Blindly Copy
 - [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
+- **CheatSheet** - Keyb
 - **Shell** - Fish
 - **Term** - Kitty
 - **Bar** - Waybar
