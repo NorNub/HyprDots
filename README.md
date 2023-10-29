@@ -10,6 +10,8 @@ DONT Blindly Copy
 [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
-SHELL: Fish 
-TERM: Kitty 
+- **Shell** - Fish
+- **Term** - Kitty
+- **Notification** - Mako
+- **Web Browser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/migueravila/SimpleFox) 
 
