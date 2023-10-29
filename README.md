@@ -11,6 +11,7 @@ DONT Blindly Copy
 
 # Things
 - **Bar** - Waybar
+- **Editor** - Neovim // Code-OSS
 - **Shell** - Fish
 - **Term** - Kitty
 - **Notification** - Mako
