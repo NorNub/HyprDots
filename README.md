@@ -4,6 +4,8 @@ DONT Blindly Copy
 
 ![alt text](https://github.com/NorNub/hyprdots/blob/main/other/desktop.jpg)
 
+- [Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/)
+
 # Themes
 
 - [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
