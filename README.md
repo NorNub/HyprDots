@@ -13,6 +13,7 @@ DONT Blindly Copy
 - **Shell** - Fish
 - **Term** - Kitty
 - **Bar** - Waybar
+- **Launcher** - Wofi
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
