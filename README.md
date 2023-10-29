@@ -14,7 +14,7 @@ DONT Blindly Copy
 - **Term** - Kitty
 - **Bar** - Waybar
 - **Launcher** - Wofi
-- **Wallpaper** - SWWW
+- **Wallpaper** - Swww
 - **ScreenShot** - GrimSlurp
 - **Notification** - Mako
 - **LoginManager** - SDDM
