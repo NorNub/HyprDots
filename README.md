@@ -22,6 +22,7 @@ DONT Blindly Copy
 - **Wallpaper** - Swww
 - **ScreenShot** - GrimSlurp
 - **Notification** - Mako
+- **Polkit** - KDE-Polkit
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
