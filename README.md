@@ -37,4 +37,4 @@ DONT Blindly Copy
 - DarkReader
 - SponsorBlock
 - CanvasBlocker
-- ViolentMoneky [SYA](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) & [RYD](https://greasyfork.org/en/scripts/436115-return-youtube-dislike) & [YHD](https://greasyfork.org/en/scripts/23661-youtube-hd)
+- ViolentMoneky With [SYA](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) & [RYD](https://greasyfork.org/en/scripts/436115-return-youtube-dislike) & [YHD](https://greasyfork.org/en/scripts/23661-youtube-hd)
