@@ -10,6 +10,7 @@ DONT Blindly Copy
 [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
+- **Bar** - Waybar
 - **Shell** - Fish
 - **Term** - Kitty
 - **Notification** - Mako
