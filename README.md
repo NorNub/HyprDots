@@ -2,7 +2,7 @@
 
 DONT Blindly Copy 
 
-![alt text](https://github.com/NorNub/hyprdots/blob/main/other/sh/desktop.jpg)
+![alt text](https://github.com/NorNub/hyprdots/blob/main/other/desktop.jpg)
 
 # Themes
 
