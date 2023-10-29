@@ -1,1 +1,3 @@
 # hyprdots
+
+DONT Blindly Copy 
