@@ -4,10 +4,10 @@ DONT Blindly Copy
 
 
 # Themes
-[Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
+- [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Icons
-[Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
+- [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Things
 - **Shell** - Fish
