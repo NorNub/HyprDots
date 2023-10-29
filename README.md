@@ -13,5 +13,12 @@ DONT Blindly Copy
 - **Shell** - Fish
 - **Term** - Kitty
 - **Notification** - Mako
-- **Web Browser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox) 
-
+- **Web Browser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
+-   Ublock
+-   Unhook
+-   MalSync
+-   Bitwarden
+-   DarkReader
+-   SponsorBlock
+-   CanvasBlocker
+-   ViolentMoneky
