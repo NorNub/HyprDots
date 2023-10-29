@@ -28,7 +28,7 @@ DONT Blindly Copy
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
-- **WebBrowser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
+- **WebBrowser** - Firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
 - **Exstensions:**
 - Ublock
 - Unhook
@@ -37,4 +37,4 @@ DONT Blindly Copy
 - DarkReader
 - SponsorBlock
 - CanvasBlocker
-- ViolentMoneky With [SYA](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) & [RYD](https://greasyfork.org/en/scripts/436115-return-youtube-dislike) & [YHD](https://greasyfork.org/en/scripts/23661-youtube-hd)
+- ViolentMoneky with [SYA](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) & [RYD](https://greasyfork.org/en/scripts/436115-return-youtube-dislike) & [YHD](https://greasyfork.org/en/scripts/23661-youtube-hd)
