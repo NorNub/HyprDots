@@ -14,10 +14,12 @@ DONT Blindly Copy
 - **Term** - Kitty
 - **Bar** - Waybar
 - **Launcher** - Wofi
+- **Wallpaper** - SWWW
+- **ScreenShot** - GrimSlurp
+- **Notification** - Mako
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
-- **Notification** - Mako
 - **WebBrowser** - firefox with [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
 - **Exstensions:**
 - Ublock
