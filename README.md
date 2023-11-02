@@ -2,7 +2,7 @@
 
 DONT Blindly Copy 
 
-![alt text](https://github.com/NorNub/hyprdots/blob/main/other/desktop.jpg)
+![alt text](https://github.com/trulyexposed/hyprdots/blob/main/other/desktop.jpg)
 
 - [Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=2921325071)
 
