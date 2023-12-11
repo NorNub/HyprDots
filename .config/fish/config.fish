@@ -3,13 +3,14 @@ if status is-interactive
 
     # Commands to run in interactive sessions
     starship init fish | source
+    colorscript --random
     #neofetch
 
     #Aliases 
     alias ..='cd ..'
     alias mv='mv -i'
     alias rm='rm -i'
-    alias ls='eza -al --color=automatic --group-directories-first'
+    alias ls='eza -al --icons=always --color=automatic --group-directories-first'
     alias v='nvim'
     alias g='git'
     alias gc='git clone'
@@ -19,9 +20,8 @@ if status is-interactive
     alias rg='batgrep'
     alias he='history clear'
     alias te='trash-empty'
-    alias ps='paru -S'
+    alias ps='paru -Syu'
     alias pr='paru -Rsn'
-    alias pu='paru -Syu'
     alias pw='paru -Pw'
     alias hc='hyprctl'
     alias gsh='grim -g "$(slurp)"'
@@ -39,7 +39,8 @@ if status is-interactive
    	set -x TERMINAL kitty-256color
     set -x LESS -R
     set -x set HISTCONTROL ignoreboth
-    set -x STARSHIP_CONFIG /home/god/.config/prompt/starship.toml
+    set -x STARSHIP_CONFIG /home/dark/.config/prompt/starship.toml
+    set -g fish_greeting
 
 end
 

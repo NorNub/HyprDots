@@ -1,0 +1,109 @@
+
+- name: 
+  keybinds:
+  - name: Command 
+    key: Nvim - NvCheatsheet
+
+- name: 
+  keybinds:
+  - name: Command 
+    key: Nvim - NvChadUpdate
+
+- name: 
+  keybinds:
+  - name: Command 
+    key: Nvim - space + t + h
+
+- name: 
+  keybinds:
+  - name: Script 
+    key: Gamemode - Super + G
+
+- name: 
+  keybinds:
+  - name: Audio 
+    key: Raise - Function + .
+
+- name: 
+  keybinds:
+  - name: Audio 
+    key: Lower - Function + ,
+
+- name: 
+  keybinds:
+  - name: Audio 
+    key: Mute - Function + M
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: Browser - Super + B
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: FileManager - Super + E
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: Terminal - Super + Enter
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: Launcher - Super + Q
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: ScreenShot - Super + S
+
+- name: 
+  keybinds:
+  - name: Application 
+    key: Wallpaper - Super + L
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: KillActive - Super + Shift + Q
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: Exit - Super + Shift + P
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: Fullscreen - Super + F
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: Float - Super + V
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: Pseudo - Super + P
+
+- name: 
+  keybinds:
+  - name: Management 
+    key: Split - Super + J
+
+- name: 
+  keybinds:
+  - name: Workspace 
+    key: Switch - Super + 1-0
+
+- name: 
+  keybinds:
+  - name: Workspace 
+    key: Move - Super + Shift + 1-0
+
+
+
+

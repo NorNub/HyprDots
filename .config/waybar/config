@@ -1,6 +1,6 @@
 {
   "layer": "top:",
-  "modules-left": ["custom/launcher", "hyprland/workspaces", "gamemode"],
+  "modules-left": ["custom/launcher", "custom/notification", "hyprland/workspaces", "gamemode"],
   "modules-center": ["custom/spotify", "cava"],
   "modules-right": ["tray", "pulseaudio", "clock"],
   "custom/launcher": { "format": " arch btw" },
@@ -66,7 +66,7 @@
     "escape": true
   },
   "custom/spotify": {
-    "exec": "/usr/bin/python3 /home/god/.config/hypr/scripts/mediaplayer.py --player spotify",
+    "exec": "/usr/bin/python3 /home/dark/.config/hypr/scripts/mediaplayer.py --player spotify",
     "format": "{}  ", 
     "return-type": "json",
     "on-click": "playerctl play-pause",
@@ -93,6 +93,26 @@
             "actions": {
                        "on-click-right": "mode"
                        }
+  },
+  "custom/notification": {
+    "tooltip": false,
+    "format": "{icon}",
+    "format-icons": {
+      "notification": "<span foreground='red'><sup></sup></span>",
+      "none": "",
+      "dnd-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-none": "",
+      "inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "inhibited-none": "",
+      "dnd-inhibited-notification": "<span foreground='red'><sup></sup></span>",
+      "dnd-inhibited-none": ""
+    },
+    "return-type": "json",
+    "exec-if": "which swaync-client",
+    "exec": "swaync-client -swb",
+    "on-click": "swaync-client -t -sw",
+    "on-click-right": "swaync-client -d -sw",
+    "escape": true
   }
 }
 

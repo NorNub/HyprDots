@@ -1,64 +1,40 @@
-* {
-  all: unset;
-}
-
 window {
-  margin: 0px;
-  border: 2px solid --wofi-color3;
-  border-left: none;
-  background-color: --wofi-color0;
-  font-family:
-    Iosevka SS14,
-    monospace;
-  font-size: 16px;
-  box-shadow: 0px 0px 5px 10px --wofi-color0;
+    margin: 0px;
+    border-radius: 4px;
 }
 
 #input {
-  border: none;
-  margin-bottom: 20px;
-  padding: 3px;
-  color: --wofi-color5;
-  background-color: --wofi-color2;
-}
-
-#input image {
-  color: --wofi-color2;
-  display: none;
+    margin: 10px;
+    min-height: 40px;
 }
 
 #inner-box {
-  border: none;
-  background-color: --wofi-color0;
+    margin: 5px;
+    background-color: transparent;
 }
 
 #outer-box {
-  margin: 20px 20px 30px 20px;
-  border: none;
-  background-color: --wofi-color0;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 #scroll {
-  margin: 0px;
-  border: none;
-  color: --wofi-color3;
+    border-top: 1px solid @borders;
+    background-color: transparent;
+    border-radius: 0px 0px 4px 4px;
 }
 
-#text {
-  /* margin: 5px; */
-  padding: 0px 10px;
-  border: none;
-  color: --wofi-color5;
+#entry {
+    padding: 5px;
+    margin: 3px;
 }
 
 #entry:selected {
-  background-color: --wofi-color1;
-  font-weight: normal;
-  border-bottom: solid 2px --wofi-color10;
+    outline: none;
+    background-color: alpha(currentColor, 0.05);
 }
 
-#text:selected {
-  background-color: --wofi-color10;
-  color: --wofi-color0;
-  font-weight: normal;
+#entry > box > label {
+    margin-left: 10px;
 }
