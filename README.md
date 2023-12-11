@@ -25,7 +25,7 @@ DONT Blindly Copy
 - **LoginManager** - SDDM
 - **FileManager** - Thunar // LF
 - **Editor** - Neovim // Code-OSS
-- **WebBrowser** - Firefox with [Theme](https://addons.mozilla.org/en-US/firefox/addon/ayu-dark-flat-theme/) & [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
+- **WebBrowser** - Firefox with [Theme](https://addons.mozilla.org/en-US/firefox/addon/nicothin-space/) & [CSS](https://github.com/p3nguin-kun/penguinFox) & [Config](https://github.com/yokoffing/BetterFox)
 - **Exstensions:**
 - Ublock
 - Unhook
