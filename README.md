@@ -2,13 +2,7 @@
 
 DONT Blindly Copy 
 
-![alt text](https://github.com/trulyexposed/hyprdots/blob/main/other/desktop.jpg)
-
-- [Wallpaper](https://steamcommunity.com/sharedfiles/filedetails/?id=2921325071)
-
 # Themes
-
-- [Ahoka](https://github.com/ahodesuka/dotfiles/tree/master)
 
 # Icons
 
@@ -41,6 +35,3 @@ DONT Blindly Copy
 - SponsorBlock
 - CanvasBlocker
 - ViolentMoneky with [SYA](https://greasyfork.org/en/scripts/423851-simple-youtube-age-restriction-bypass) & [RYD](https://greasyfork.org/en/scripts/436115-return-youtube-dislike) & [YHD](https://greasyfork.org/en/scripts/23661-youtube-hd)
-
-# Shoutout 
-- [Zakar](https://github.com/Zakar98k/hyprland-dots)
