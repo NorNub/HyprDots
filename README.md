@@ -3,7 +3,7 @@
 DONT Blindly Copy 
 
 # Themes
-
+- [Colloid-Dark-Edit](https://github.com/AmirDahan/dotfiles/tree/main/.themes)
 # Icons
 
 - [NovaOS-Icons](https://github.com/NicklasVraa/NovaOS-nord-Icons)
