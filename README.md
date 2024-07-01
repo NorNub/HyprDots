@@ -1,6 +1,6 @@
 # hyprdots
 
-DONT Blindly Copy 
+DONT USE RLY OUTDATED 
 
 # Themes
 - [Colloid-Dark-Edit](https://github.com/AmirDahan/dotfiles/tree/main/.themes)
